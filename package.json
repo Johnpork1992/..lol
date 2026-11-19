@@ -1,0 +1,17 @@
+{
+  "name": "hogwarts-mp",
+  "version": "1.0.0",
+  "description": "Hogwarts Wizard Duel Multiplayer",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "node server.js"
+  },
+  "keywords": ["hogwarts", "wizard", "duel", "multiplayer"],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
